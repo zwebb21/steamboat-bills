@@ -27,6 +27,7 @@ function Navbar() {
           <Link to="/catering">Catering</Link>
           <Link to="/story">Our Story</Link>
           <Link to="/contact">Contact</Link>
+          <Link to="/contact">Careers</Link>
 
           <Link to="#" className="order-button">
             Order Online
