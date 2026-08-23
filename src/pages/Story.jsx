@@ -2,10 +2,16 @@ import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 import siteContent from "../data/siteContent";
 import bannerImage from "../assets/branding/banner.jpg";
+import Seo from "../components/Seo";
 
 function Story() {
   return (
     <>
+      <Seo
+        title="Our Story"
+        description="From a roadside shrimp business to a Louisiana seafood tradition — discover the history of Steamboat Bill's in Lake Charles, LA."
+        path="/story"
+      />
       <Navbar />
 
       <main className="story-page">

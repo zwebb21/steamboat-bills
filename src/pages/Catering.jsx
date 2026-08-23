@@ -1,10 +1,17 @@
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
+import Seo from "../components/Seo";
 
 function Catering() {
     return (
 
         <>
+
+        <Seo
+          title="Catering"
+          description="Bring Steamboat Bill's authentic Louisiana seafood to your next event. Family gatherings, celebrations, and corporate catering in Lake Charles, LA."
+          path="/catering"
+        />
 
         <Navbar />
       <main className="catering-page">
