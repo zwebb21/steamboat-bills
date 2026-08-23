@@ -3,12 +3,18 @@ import MenuItem from "../components/MenuItem";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import OrderOptions from "../components/OrderOptions";
+import Seo from "../components/Seo";
 
 function Menu() {
   return (
 
 
 <>
+<Seo
+  title="Menu"
+  description="Explore our full menu of seafood, Cajun favorites, po-boys, sides, and more at Steamboat Bill's in Lake Charles, LA."
+  path="/menu"
+/>
 <Navbar />
 
 

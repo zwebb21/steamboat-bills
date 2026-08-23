@@ -13,7 +13,7 @@ function Hero() {
 
         <p>{siteContent.hero.eyebrow}</p>
 
-        <h2>{siteContent.hero.title}</h2>
+        <h1>{siteContent.hero.title}</h1>
 
         <p>{siteContent.hero.description}</p>
 

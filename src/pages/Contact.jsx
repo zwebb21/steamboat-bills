@@ -1,10 +1,16 @@
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
+import Seo from "../components/Seo";
 
 function Contact() {
     return (
 
         <>
+    <Seo
+      title="Contact Us"
+      description="Get in touch with Steamboat Bill's in Lake Charles, LA. Find our address, phone number, and hours, or reach out about catering."
+      path="/contact"
+    />
     <Navbar/>
       <main className="contact-page">
   
