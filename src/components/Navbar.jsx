@@ -9,7 +9,7 @@ function Navbar() {
       <nav className="navbar-inner">
 
         <a href="/" className="navbar-logo">
-          Steamboat Bill's
+          Steamboat Bill's :Lake Charles Billy
         </a>
 
         <button
