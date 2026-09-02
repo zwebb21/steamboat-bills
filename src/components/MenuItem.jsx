@@ -5,8 +5,7 @@ function MenuItem({ item }) {
           <h3>{item.name}</h3>
   
           <p className="menu-item-description">{item.description}</p>
-          <p className="menu-item-calories">
- Calories {item.calories}
+          <p className="menu-item-calories">Calories {item.calories}
 </p>
         </div>
   
