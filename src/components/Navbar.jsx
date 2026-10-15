@@ -28,9 +28,14 @@ function Navbar() {
           <Link to="/story">Our Story</Link>
           <Link to="/contact">Contact</Link>
 
-          <Link to="#" className="order-button">
+          <a
+            href="https://order.online/business/11291629/store/712727?utm_source=chatgpt.com&pickup=true&redirected=true"
+            className="order-button"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Order Online
-          </Link>
+          </a>
         </div>
 
       </nav>
