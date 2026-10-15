@@ -16,7 +16,7 @@ const siteContent = {
       {
         title: "Order Online",
         description: "Place your order online.",
-        link: "#"
+        link: "https://order.online/business/11291629/store/712727?utm_source=chatgpt.com&pickup=true&redirected=true"
       },
       {
         title: "Delivery",
@@ -81,7 +81,7 @@ const siteContent = {
       
               "With very little money, no friends or family in the area, and a strong will for survival, Kathi developed an unrelenting dream for success.",
       
-              "She recognized being an entrepreneur was God's calling in her life, even though she had very little know-how in the business. She was sure her passion and work ethic would supersede her inadequacies."
+              "She recognized being an entrepreneur was God's calling in her life, even though she had very little know-how in the business. She was sure her passion and work ethic would supersede[...]"
             ]
           },
       
@@ -127,9 +127,9 @@ const siteContent = {
             eyebrow: "The Legacy",
             title: "A Roadside Dream That Became A Tradition",
             paragraphs: [
-              "Sticking to a firm business model, working long hours, and focusing on delivering a quality product, Kathi and Bill were unknowingly creating a brand that has withstood the test of time.",
+              "Sticking to a firm business model, working long hours, and focusing on delivering a quality product, Kathi and Bill were unknowingly creating a brand that has withstood the test of[...]",
       
-              "The success of Steamboat Bill's is credited to God, our loyal customers, our hard-working staff, the founding family, and most importantly the roadside peddler's dream of Kathi Bonamici Vidrine.",
+              "The success of Steamboat Bill's is credited to God, our loyal customers, our hard-working staff, the founding family, and most importantly the roadside peddler's dream of Kathi Bon[...]",
       
               "With the support of everyone involved in the journey, Steamboat Bill's has gained the reputation that it maintains in the restaurant industry.",
       
@@ -161,7 +161,7 @@ const siteContent = {
         fridaySaturday: "10:30 AM - 10 PM"
       }
     },
-
+  
 
     mailingList: {
       title: "Join Our Mailing List",
