@@ -2,7 +2,6 @@ import heroImage from "../assets/hero/hero.png";
 import siteContent from "../data/siteContent";
 import { Link } from "react-router-dom";
 
-
 function Hero() {
   return (
     <section
@@ -22,7 +21,11 @@ function Hero() {
             {siteContent.hero.primaryCta}
           </Link>
 
-          <a href="#">
+          <a
+            href="https://order.online/business/11291629/store/712727?utm_source=chatgpt.com&pickup=true&redirected=true"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             {siteContent.hero.secondaryCta}
           </a>
         </div>
