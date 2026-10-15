@@ -16,7 +16,7 @@ const siteContent = {
       {
         title: "Order Online",
         description: "Place your order online.",
-        link: "https://order.online/business/11291629/store/712727?utm_source=chatgpt.com&pickup=true&redirected=true"
+        link: "https://order.online/en-US/store/steamboat-bill%27s-%28martin-luther-king-hwy%29-lake-charles-712727?utm_source=chatgpt.com"
       },
       {
         title: "Delivery",
