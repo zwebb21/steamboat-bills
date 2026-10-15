@@ -6,7 +6,7 @@ const siteContent = {
       primaryCta: "See Our Menu",
       secondaryCta: "Order Online"
     },
-  
+    
     quickActions: [
       {
         title: "See Our Menu",
@@ -29,7 +29,7 @@ const siteContent = {
         link: "tel:3374941070"
       }
     ],
-  
+    
     featuredFood: [
         {
           name: "Pistolette - Shrimp or Crawfish",
@@ -63,7 +63,7 @@ const siteContent = {
           category: "Boiled Seafood"
         }
       ],
-  
+    
       story: {
         title: "Our History",
       
@@ -143,15 +143,15 @@ const siteContent = {
           }
         ]
       },
-  
+    
     catering: {
       title: "Catering",
       description: "",
       link: "/catering"
     },
-  
+    
     reviews: [],
-  
+    
     location: {
       address: "1004 North Lakeshore Dr.",
       city: "Lake Charles, LA",
@@ -161,7 +161,7 @@ const siteContent = {
         fridaySaturday: "10:30 AM - 10 PM"
       }
     },
-  
+    
 
     mailingList: {
       title: "Join Our Mailing List",
