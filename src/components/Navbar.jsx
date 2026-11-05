@@ -9,7 +9,7 @@ function Navbar() {
       <nav className="navbar-inner">
 
         <a href="/" className="navbar-logo">
-          Steamboat Bill's :Lake Charles Billy
+          Steamboat Bill's :Built by Zarius 
         </a>
 
         <button
@@ -27,6 +27,7 @@ function Navbar() {
           <Link to="/catering">Catering</Link>
           <Link to="/story">Our Story</Link>
           <Link to="/contact">Contact</Link>
+          <Link to="/contact">Careers</Link>
 
           <a
             href="https://order.online/business/11291629/store/712727?utm_source=chatgpt.com&pickup=true&redirected=true"

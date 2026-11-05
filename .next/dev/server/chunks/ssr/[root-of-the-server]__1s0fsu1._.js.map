@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///Users/zariuswebb/Desktop/My%20Websites/Web%20Development/steamboat-bills/src/app/menu/page.jsx"],"sourcesContent":["export default function Menu() {\n    return (\n      <main>\n        <h1>Steamboat Bill's Menu</h1>\n        <p>This is my Next.js menu page.</p>\n      </main>\n    );\n  }"],"names":["Menu"],"mappings":";;;;;;AAAe,SAASA;IACpB,qBACE,8OAAC;;0BACC,8OAAC;0BAAG;;;;;;0BACJ,8OAAC;0BAAE;;;;;;;;;;;;AAGT"}}]
+}

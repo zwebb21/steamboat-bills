@@ -1,10 +1,23 @@
-import menuData from "../data/menuData";
+import { useEffect, useState } from "react";
+
 import MenuItem from "../components/MenuItem";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import OrderOptions from "../components/OrderOptions";
 
 function Menu() {
+
+  const [menuData, setMenuData] = useState([]);
+
+  useEffect(() => {
+    fetch("http://localhost:5000/menu")
+      .then((response) => response.json())
+      .then((data) => {
+        setMenuData(data);
+      });
+  }, []);
+
+
   return (
 
 
