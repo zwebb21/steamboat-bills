@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///Users/zariuswebb/Desktop/My%20Websites/Web%20Development/steamboat-bills/src/app/page.jsx"],"sourcesContent":["export default function Home() {\n    return (\n      <main>\n        <h1>Steamboat Bill's</h1>\n        <p>Next.js is working!</p>\n      </main>\n    );\n  }"],"names":["Home"],"mappings":";;;;;;AAAe,SAASA;IACpB,qBACE,8OAAC;;0BACC,8OAAC;0BAAG;;;;;;0BACJ,8OAAC;0BAAE;;;;;;;;;;;;AAGT"}}]
+}

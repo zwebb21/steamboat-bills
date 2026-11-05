@@ -82,14 +82,27 @@ function Contact() {
   
   
         <section className="contact-map">
-          <div className="contact-map-inner">
-  
-            <div className="map-placeholder">
-              <p>Map coming soon</p>
-            </div>
-  
-          </div>
-        </section>
+  <div className="contact-map-inner">
+    <iframe
+      title="Map of Steamboat Bill's in Lake Charles"
+      src="https://maps.google.com/maps?q=1004%20North%20Lakeshore%20Dr%2C%20Lake%20Charles%2C%20LA&output=embed"
+      style={{
+        display: "block",
+        width: "100%",
+        height: 350,
+        border: 0,
+      }}
+      loading="lazy"
+    />
+
+    <a
+      className="contact-directions"
+      href="https://www.google.com/maps/dir/?api=1&destination=1004+North+Lakeshore+Dr%2C+Lake+Charles%2C+LA"
+    >
+      Get Directions
+    </a>
+  </div>
+</section>
   
       </main>
         <Footer />
